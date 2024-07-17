@@ -4,7 +4,7 @@
     background-color: #fce3fe;
     padding-top: 100px;
 }
-.loginsingup-container{
+.loginsignup-container{
     width: 580px;
     height: 600px;
     background: whitesmoke;
@@ -32,7 +32,7 @@
     font-size: 18px;
 }
 .loginsignup-container button{
-    width: 500px;
+    width: 580px;
     height: 72px;
     color: whitesmoke;
     background: #ff4141;
@@ -61,6 +61,6 @@
     margin-top:25px ;
     gap: 20px;
     color: #5c5c5c;
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 500;
 }
